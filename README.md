@@ -2,6 +2,8 @@
 
 This application allows users to upload and interact with multiple PDF documents through a conversational interface. It uses **Google Gemini 1.5** for intelligent response generation and integrates Retrieval-Augmented Generation (RAG) techniques to provide page-specific answers based on the uploaded content. If a user query falls outside the scope of the uploaded documents, the app seamlessly falls back to Gemini’s general knowledge.
 
+![Screenshot](pdfbot.png)
+
 ---
 
 ## Key Features
